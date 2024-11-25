@@ -35,12 +35,12 @@ int main()
 	int num1,num2,choice;
 	
 	
-	printf("Enter number-1: ");
+	printf("Enter number 1: ");
 	scanf("%d",&num1);
 	
-	printf("Enter number-2: ");
+	printf("Enter number 2: ");
 	scanf("%d",&num2);
-	printf("ENTER YOU CHOICE: ");
+	printf("ENTER YOER CHOICE: ");
 	scanf("%d",&choice);
 		
 	if(choice==1)
@@ -65,7 +65,7 @@ int main()
 	}
 	else
 	{
-		printf("Enter valid number. 1 TO 5");
+		printf("Enter a number. 1 TO 5");
 	}
 	
 	return 0;
